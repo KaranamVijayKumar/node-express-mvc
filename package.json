@@ -5,7 +5,7 @@
   "main": "app.js",
   "dependencies": {
     "express": "latest",
-    "lodash": "latest",
+    "lodash": "4.17.17",
     "lodash.find": "latest",
     "mongoose": "latest",
     "nedb": "latest"

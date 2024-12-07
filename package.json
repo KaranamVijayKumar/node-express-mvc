@@ -4,10 +4,10 @@
   "description": "Express web app using MVC (no views yet)",
   "main": "app.js",
   "dependencies": {
-    "express": "latest",
+    "express": "4.21.2",
     "lodash": "latest",
     "lodash.find": "latest",
-    "mongoose": "latest",
+    "mongoose": "8.8.3",
     "nedb": "latest"
   },
   "scripts": {
